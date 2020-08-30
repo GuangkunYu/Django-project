@@ -1,0 +1,14 @@
+INFO 2020-08-30 20:12:19,383 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-08-30 20:14:53,789 autoreload 236 E:\documents\GitHub\Django-project\blog\blog\urls.py changed, reloading.
+INFO 2020-08-30 20:14:55,865 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-08-30 20:15:23,661 autoreload 236 E:\documents\GitHub\Django-project\blog\blog\urls.py changed, reloading.
+INFO 2020-08-30 20:15:25,508 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-08-30 20:15:42,358 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2020-08-30 20:19:48,113 autoreload 236 E:\documents\GitHub\Django-project\blog\blog\urls.py changed, reloading.
+INFO 2020-08-30 20:19:49,699 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-08-30 20:20:24,318 basehttp 157 "GET / HTTP/1.1" 200 4
+INFO 2020-08-30 20:21:49,864 autoreload 236 E:\documents\GitHub\Django-project\blog\blog\urls.py changed, reloading.
+INFO 2020-08-30 20:21:51,278 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-08-30 20:26:16,910 autoreload 236 E:\documents\GitHub\Django-project\blog\blog\settings.py changed, reloading.
+INFO 2020-08-30 20:26:18,703 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-08-30 20:30:21,894 autoreload 236 E:\documents\GitHub\Django-project\blog\blog\urls.py changed, reloading.
